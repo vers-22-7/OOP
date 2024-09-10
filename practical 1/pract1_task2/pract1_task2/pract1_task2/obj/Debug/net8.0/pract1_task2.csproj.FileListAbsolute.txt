@@ -1,0 +1,14 @@
+D:\python\home worke programing\OOP\pract1_task2\pract1_task2\pract1_task2\bin\Debug\net8.0\pract1_task2.exe
+D:\python\home worke programing\OOP\pract1_task2\pract1_task2\pract1_task2\bin\Debug\net8.0\pract1_task2.deps.json
+D:\python\home worke programing\OOP\pract1_task2\pract1_task2\pract1_task2\bin\Debug\net8.0\pract1_task2.runtimeconfig.json
+D:\python\home worke programing\OOP\pract1_task2\pract1_task2\pract1_task2\bin\Debug\net8.0\pract1_task2.dll
+D:\python\home worke programing\OOP\pract1_task2\pract1_task2\pract1_task2\bin\Debug\net8.0\pract1_task2.pdb
+D:\python\home worke programing\OOP\pract1_task2\pract1_task2\pract1_task2\obj\Debug\net8.0\pract1_task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\python\home worke programing\OOP\pract1_task2\pract1_task2\pract1_task2\obj\Debug\net8.0\pract1_task2.AssemblyInfoInputs.cache
+D:\python\home worke programing\OOP\pract1_task2\pract1_task2\pract1_task2\obj\Debug\net8.0\pract1_task2.AssemblyInfo.cs
+D:\python\home worke programing\OOP\pract1_task2\pract1_task2\pract1_task2\obj\Debug\net8.0\pract1_task2.csproj.CoreCompileInputs.cache
+D:\python\home worke programing\OOP\pract1_task2\pract1_task2\pract1_task2\obj\Debug\net8.0\pract1_task2.dll
+D:\python\home worke programing\OOP\pract1_task2\pract1_task2\pract1_task2\obj\Debug\net8.0\refint\pract1_task2.dll
+D:\python\home worke programing\OOP\pract1_task2\pract1_task2\pract1_task2\obj\Debug\net8.0\pract1_task2.pdb
+D:\python\home worke programing\OOP\pract1_task2\pract1_task2\pract1_task2\obj\Debug\net8.0\pract1_task2.genruntimeconfig.cache
+D:\python\home worke programing\OOP\pract1_task2\pract1_task2\pract1_task2\obj\Debug\net8.0\ref\pract1_task2.dll

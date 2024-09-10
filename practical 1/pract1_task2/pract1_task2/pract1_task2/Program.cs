@@ -1,6 +1,4 @@
-using System;
-
-namespace SimpleCalculationApp
+﻿namespace SimpleCalculationApp
 {
     class Program
     {
@@ -11,7 +9,7 @@ namespace SimpleCalculationApp
 
             float a = float.Parse(inputA);
 
-            float result = a * (a + a / 2);
+            float result = a * ((a + a) / 2);
 
             Console.WriteLine("Результат обчислення a * (a + a / 2): " + result);
         }
