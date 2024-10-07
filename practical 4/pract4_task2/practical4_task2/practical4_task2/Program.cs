@@ -5,26 +5,20 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Створюємо масив
         int[] array = { 1, 2, 3, 4, 5 };
 
-        // Викликаємо рекурсивний метод для знаходження суми елементів масиву
         int sum = SumArray(array, array.Length - 1);
 
-        // Виводимо результат
         Console.WriteLine("Сума елементів масиву: " + sum);
     }
 
-    // Рекурсивний метод для знаходження суми елементів масиву
     static int SumArray(int[] arr, int index)
     {
-        // Базовий випадок: якщо індекс дорівнює 0, повертаємо перший елемент
         if (index == 0)
         {
             return arr[0];
         }
 
-        // Рекурсивний випадок: сума поточного елемента + сума решти елементів
         return arr[index] + SumArray(arr, index - 1);
     }
 }
